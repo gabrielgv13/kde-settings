@@ -1,12 +1,10 @@
-{
-  "versions": [
-    {
-      "version": "1.0.0",
-      "url": "https://github.com/gabrielgv13/kde-settings/archive/refs/tags/v1.0.0.zip",
-      "sha256": "21c3a76e5eb9389944a48e09470fbc400bccc6430f6e82370f7b0810ad374391",
-      "requirements": {
-        "ulauncher": "^5.0.0"
-      }
+[
+  {
+    "version": "1.0.0",
+    "url": "https://github.com/gabrielgv13/kde-settings/archive/refs/tags/v1.0.0.zip",
+    "sha256": "21c3a76e5eb9389944a48e09470fbc400bccc6430f6e82370f7b0810ad374391",
+    "requirements": {
+      "ulauncher": "^5.0.0"
     }
-  ]
-}
+  }
+]
