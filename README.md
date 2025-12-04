@@ -1,5 +1,7 @@
 # KDE Settings Launcher — Ulauncher Extension
 
+[![Install](https://img.shields.io/badge/Install%20in-Ulauncher-green?logo=plasma)](ulauncher://install-extension/github.com/gabrielgv13/kde-settings)
+
 A simple and fast Ulauncher extension that allows you to search and open **KDE Plasma settings modules** directly from Ulauncher.
 
 ![Screenshot](screenshot.png)
