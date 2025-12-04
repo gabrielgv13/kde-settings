@@ -1,0 +1,18 @@
+{
+  "required_api_version": "^2.0.0",
+  "name": "KDE Settings Launcher",
+  "description": "Search and open KDE Plasma system settings pages directly from Ulauncher.",
+  "developer_name": "gabrielgv13",
+  "icon": "icon.png",
+  "extension_id": "gabrielgv13.kde-settings",
+  "version": "1.0.0",
+  "preferences": [
+    {
+      "id": "kde_kw",
+      "type": "keyword",
+      "name": "Activation keyword",
+      "description": "Type this keyword to begin searching KDE settings",
+      "default_value": "kde"
+    }
+  ]
+}
